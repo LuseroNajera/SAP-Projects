@@ -9,9 +9,15 @@ Importance: This world dataset shows us population density, infant mortality, Li
 
 <img width="600" alt="image" src="https://github.com/LuseroNajera/SAP-Projects/assets/155403528/79012296-9d96-4064-becb-ba385bf314d4">
 
+Explanation: The heat map shows us the average infant mortality rate per region. Here we see Sub-Saharan Africa has the highest infant mortality rate with a 80.04. This is important because governments, non-governmental organizations, and international agencies can use this information to allocate resources more effectively. 
+
 ### Bubble Map
 
 <img width="600" alt="image" src="https://github.com/LuseroNajera/SAP-Projects/assets/155403528/2932bc6c-c094-45a6-acab-f495153aea12">
 
+Explanation: This bubble map shows the birthrate and literacy percenatage per country. This shows us how correlated these two datatypes are. The map helps to identify patterns between birthrates and literacy percentages that may be linked to socioeconomic factors. 
+
 ### Bar Chart 
 <img width="464" alt="image" src="https://github.com/LuseroNajera/SAP-Projects/assets/155403528/94d8a09a-4f26-48ce-9d92-a4b290538bb3">
+
+Explanation: This bar chart shows the density per country for the bottom 5 countries. This includes Greenland, Western Sahara, Mongolia, French Guiana, and Namibia. These are the countries with the lowest density in population. This comparison is valuable for understanding variations in population distribution globally.
